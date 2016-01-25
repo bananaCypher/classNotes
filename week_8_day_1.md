@@ -1,6 +1,6 @@
 # Javascript
 ## Contents
-* Uses
+* [Uses](#Uses)
 * Installing Node
 * Functions
 * Running Node scripts
