@@ -251,7 +251,7 @@ Javascript will try and convert types to what is required.
 '3hello'
 ```
 
-## If statemets
+## If statements
 Simple if statement
 ```javascript
 var myName = "Keith";
