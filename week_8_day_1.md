@@ -1,13 +1,13 @@
 # Javascript
 ## Contents
-* [Uses](#Uses)
-* Installing Node
-* Functions
-* Running Node scripts
-* Node runtime enviroment
-* Types
-* Variables
-* If statements
+* [Uses](#uses)
+* [Installing Node](#installing-node)
+* [Functions](#functions)
+* [Running Node scripts](#running-node-scripts)
+* [Node runtime enviroment](#node-runtime-enviroment)
+* [Types](#types)
+* [Variables](#variables)
+* [If statements](#if-statements)
 
 ## Uses
 Javascript is primarily used for generating HTML and runnign in the browser but can be used to make mobile apps and has a server side interpreter called NodeJS
