@@ -1,4 +1,4 @@
-# Javascript Models
+# Javascript Objects
 * [Basics](#basics)
 * [How do they differ to Ruby Objects](#how-do-they-differ-to-ruby-objects)
 * [Adding properties to objects](#adding-properties-to-objectss)
