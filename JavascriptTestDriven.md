@@ -60,7 +60,7 @@ describe('Water bottle', function(){
 ```
 You can then build up a full site like the below
 ```javascript
-\\ water_bottle.js
+// water_bottle.js
 var waterBottle = {
     volume: 0,
     fill: function(){
@@ -78,7 +78,7 @@ var waterBottle = {
 module.exports = waterBottle;
 ```
 ```javascript
-\\ water_bottle_spec.js
+// water_bottle_spec.js
 var bottle = require('./water_bottle');
 var assert = require('assert');
 
